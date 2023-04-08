@@ -344,6 +344,7 @@ h6 {
   font-weight: 700;
   padding-left: 0;
   color: #fff;
+  padding: 10px;
 }
 
 #fh5co-header.navbar-fixed-top {
@@ -355,6 +356,7 @@ h6 {
   box-shadow: 0 0 9px 0 rgba(0, 0, 0, 0.1);
   margin-top: 0px;
   top: 0;
+  padding: 10px;
 }
 
 #fh5co-header.navbar-fixed-top .navbar-brand {
